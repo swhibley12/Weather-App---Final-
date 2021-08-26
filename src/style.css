@@ -31,8 +31,8 @@ li:first-letter {
 }
 
 .weather-app-wrapper {
-  max-width: 700px;
-  margin: 40px auto;
+  max-width: 600px;
+  margin: 30px auto;
 }
 
 .weather-app {
@@ -43,7 +43,7 @@ li:first-letter {
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
   padding: 50px;
   padding-top: 50px;
   justify-content: center;
