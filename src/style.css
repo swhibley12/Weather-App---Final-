@@ -10,6 +10,21 @@ h1 {
   margin-bottom: 0;
 }
 
+form {
+  display: block;
+  margin-top: 0em;
+  margin-block-end: 1em;
+  box-sizing: border-box;
+}
+
+input {
+  border-radius: 2px;
+  border: none;
+  height: 44px;
+  padding: 10px;
+  width: 300px;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -41,21 +56,6 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
-}
-
-form {
-  display: block;
-  margin-top: 0em;
-  margin-block-end: 1em;
-  box-sizing: border-box;
-}
-
-input {
-  border-radius: 2px;
-  border: none;
-  height: 44px;
-  padding: 10px;
-  width: 300px;
 }
 
 .btn {
