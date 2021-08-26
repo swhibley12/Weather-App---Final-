@@ -87,18 +87,18 @@ li:first-letter {
   color: #000;
 }
 
-.weather-forecast-date {
-  font-size: 16px;
-  opacity: 0.5;
-  color: black;
-}
-
 .weather-forecast-temperature-min {
   opacity: 0.5;
 }
 
 .weather-forecast-temperatures {
   font-size: 13px;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.5;
+  color: black;
 }
 
 footer {
