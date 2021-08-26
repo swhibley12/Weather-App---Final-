@@ -39,6 +39,7 @@ li:first-letter {
   background-color: #f9f1fd;
   background-size: auto;
   border-radius: 5px;
+  border: 1px solid #dadde1;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 50px;
