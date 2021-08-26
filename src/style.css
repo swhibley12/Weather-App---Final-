@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+button {
+  color: #000;
+}
+
 h1 {
   color: black;
   font-size: 24px;
