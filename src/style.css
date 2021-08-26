@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: violet;
+  color: black;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -20,7 +20,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color: black;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
