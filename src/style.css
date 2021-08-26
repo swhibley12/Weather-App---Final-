@@ -99,6 +99,14 @@ li:first-letter {
   font-size: 13px;
 }
 
+img {
+  padding-top: 50px;
+  box-sizing: border-box;
+  vertical-align: middle;
+  width: 100%;
+  height: auto;
+}
+
 footer {
   text-align: center;
 }
