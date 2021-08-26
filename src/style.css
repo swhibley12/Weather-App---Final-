@@ -2,10 +2,6 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-button {
-  color: #000;
-}
-
 h1 {
   color: black;
   font-size: 24px;
@@ -44,6 +40,25 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+}
+
+.btn {
+  border-radius: 2px;
+  background-color: rgb(97, 94, 114);
+  color: #fff;
+  height: 44px;
+  float: left;
+}
+
+.btn-success {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  color: #fff;
+  background-color: rgb(137, 116, 163);
 }
 
 .overview {
