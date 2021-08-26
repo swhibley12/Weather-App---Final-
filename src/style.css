@@ -47,6 +47,7 @@ form {
   display: block;
   margin-top: 0em;
   margin-block-end: 1em;
+  box-sizing: border-box;
 }
 
 .btn {
