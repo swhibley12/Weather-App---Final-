@@ -89,6 +89,7 @@ li:first-letter {
 .weather-forecast-date {
   font-size: 16px;
   opacity: 0.5;
+  color: black;
 }
 
 .weather-forecast-temperature-min {
@@ -97,14 +98,6 @@ li:first-letter {
 
 .weather-forecast-temperatures {
   font-size: 13px;
-}
-
-img-mountains {
-  padding-top: 50px;
-  box-sizing: border-box;
-  vertical-align: middle;
-  width: 100%;
-  height: auto;
 }
 
 footer {
