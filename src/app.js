@@ -132,3 +132,5 @@ function changeBackgroundTime() {
     document.body.style.background = "url('images/moon-sky.jpg')";
   }
 }
+
+changeBackgroundTime();
