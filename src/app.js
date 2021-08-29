@@ -126,7 +126,7 @@ function changeBackgroundTime() {
     document.body.style.background = "url('images/abstract-art.jpg')";
   }
   if (hour <= 18 && hour >= 12) {
-    document.body.style.background = "url('images/cloudy-sky.jpg')";
+    document.body.style.background = "url('images/night-sky.jpg')";
   }
   if (hour <= 23 && hour >= 18) {
     document.body.style.background = "url('images/cloudy-sky.jpg')";
