@@ -1,5 +1,8 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-image: url("images/abstract.jpg");
+  background-repeat: repeat;
+  background-size: 50px;
 }
 
 h1 {
