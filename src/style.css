@@ -29,20 +29,13 @@ li:first-letter {
   text-transform: capitalize;
 }
 
-.background {
-  background-image: url("images/abstract-art.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
 }
 
 .weather-app {
-  background-color: #fff5db;
+  background-color: #e7f8dc;
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
