@@ -1,11 +1,3 @@
-.background {
-  width: 1920px;
-  height: 1080px;
-  background-image: url("images/abstract-art.jpg");
-  position: absolute;
-  z-index: 1;
-}
-
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -35,6 +27,14 @@ li {
 
 li:first-letter {
   text-transform: capitalize;
+}
+
+.background {
+  width: 1920px;
+  height: 1080px;
+  background-image: url("images/abstract-art.jpg");
+  position: absolute;
+  z-index: 1;
 }
 
 .weather-app-wrapper {
