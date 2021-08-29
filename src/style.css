@@ -42,7 +42,7 @@ li:first-letter {
 }
 
 .weather-app {
-  background-color: #dffcda;
+  background-color: rgba(211, 240, 211, 0.867)
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
