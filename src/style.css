@@ -1,7 +1,9 @@
-body,
-html {
+body {
   font-family: "Raleway", sans-serif;
-  background-image: url("images/abstract.jpg");
+}
+
+element.style {
+  background: url(images/abstract.jpg);
 }
 
 h1 {
