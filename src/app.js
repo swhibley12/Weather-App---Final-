@@ -129,7 +129,7 @@ function changeBackgroundTime() {
     document.body.style.background = "url('images/steve-johnson.jpg')";
   }
   if (hour <= 23 && hour >= 18) {
-    document.body.style.background = "url('images/dark-abstract.jpg')";
+    document.body.style.background = "url('images/evening.jpg')";
   }
 }
 
