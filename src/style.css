@@ -25,6 +25,10 @@ li {
   line-height: 19px;
 }
 
+.images {
+  max-width: 100%;
+}
+
 li:first-letter {
   text-transform: capitalize;
 }
