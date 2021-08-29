@@ -116,3 +116,19 @@ let form = document.querySelector("#search-form");
 form.addEventListener("submit", handleSubmit);
 
 search("Toronto");
+
+function changeBackgroundTime() {
+  let date = new Date();
+  let hour = date.getHours();
+  let updateHourBg = document.querySelector(".hour");
+
+  if (hour <= 12 && hour >= 00) {
+    document.body.style.background = "url('images/abstract-art.jpg')";
+  }
+  if (hour <= 18 && hour >= 12) {
+    document.body.style.background = "url('images/leaves.jpg')";
+  }
+  if (hour <= 23 && hour >= 18) {
+    document.body.style.background = "url('images/moon-sky.jpg')";
+  }
+}
