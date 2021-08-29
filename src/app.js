@@ -129,7 +129,7 @@ function changeBackgroundTime() {
     document.body.style.background = "url('images/moon-sky.jpg')";
   }
   if (hour <= 23 && hour >= 18) {
-    document.body.style.background = "url('images/moon-sky.jpg')";
+    document.body.style.background = "url('images/night-moon.jpg')";
   }
 }
 
