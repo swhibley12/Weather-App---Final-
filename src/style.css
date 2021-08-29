@@ -1,8 +1,10 @@
 body {
   font-family: "Raleway", sans-serif;
-  background: url('../images/abstract-art.jpg);
 }
 
+element.style {
+  background: url(images/abstract-art.jpg);
+}
 h1 {
   color: black;
   font-size: 24px;
